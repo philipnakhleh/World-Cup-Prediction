@@ -2,6 +2,8 @@
 
 A machine learning project that predicts the FIFA World Cup 2026 winner using historical World Cup data, current FIFA rankings, and a Random Forest classifier.
 
+![World Cup 2026](assets/worldcup_image.webp)
+
 ## 📋 Overview
 
 This project combines historical World Cup performance data with current FIFA world rankings to build a machine learning model that predicts which team will win the 2026 FIFA World Cup. The prediction leverages:
