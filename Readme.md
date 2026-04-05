@@ -77,7 +77,7 @@ The machine learning model uses the following features:
 
 ## 📈 Results
 
-| Team            | Rank | Probability |
+| Team            | Fifa Rank | Probability |
 |-----------------|------|-------------|
 | 🇪🇸 Spain        | #2   | 11.1%       |
 | 🇦🇷 Argentina    | #3   | 10.9%       |
