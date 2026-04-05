@@ -1,0 +1,225 @@
+team,year,stage_reached,won,is_host
+France,1998,7,1,1
+Brazil,1998,6,0,0
+Croatia,1998,5,0,0
+Netherlands,1998,4,0,0
+Germany,1998,3,0,0
+Italy,1998,3,0,0
+Argentina,1998,2,0,0
+England,1998,2,0,0
+Denmark,1998,2,0,0
+Norway,1998,2,0,0
+Chile,1998,2,0,0
+Nigeria,1998,2,0,0
+Romania,1998,2,0,0
+Paraguay,1998,2,0,0
+Spain,1998,1,0,0
+Morocco,1998,1,0,0
+Belgium,1998,1,0,0
+South Africa,1998,1,0,0
+Saudi Arabia,1998,1,0,0
+Tunisia,1998,1,0,0
+Austria,1998,1,0,0
+Cameroon,1998,1,0,0
+Scotland,1998,1,0,0
+Colombia,1998,1,0,0
+Jamaica,1998,1,0,0
+South Korea,1998,1,0,0
+United States,1998,1,0,0
+IR Iran,1998,1,0,0
+Mexico,1998,1,0,0
+Yugoslavia,1998,1,0,0
+Bulgaria,1998,1,0,0
+Japan,1998,1,0,0
+Brazil,2002,7,1,0
+Germany,2002,6,0,0
+Turkey,2002,5,0,0
+South Korea,2002,4,0,1
+England,2002,3,0,0
+Spain,2002,3,0,0
+Senegal,2002,3,0,0
+United States,2002,3,0,0
+Sweden,2002,2,0,0
+Denmark,2002,2,0,0
+Japan,2002,2,0,0
+Mexico,2002,2,0,0
+Belgium,2002,2,0,0
+Paraguay,2002,2,0,0
+Argentina,2002,1,0,0
+Nigeria,2002,1,0,0
+France,2002,1,0,0
+Uruguay,2002,1,0,0
+Portugal,2002,1,0,0
+Poland,2002,1,0,0
+Italy,2002,1,0,0
+Ecuador,2002,1,0,0
+Cameroon,2002,1,0,0
+Saudi Arabia,2002,1,0,0
+South Africa,2002,1,0,0
+Tunisia,2002,1,0,0
+Costa Rica,2002,1,0,0
+China PR,2002,1,0,0
+Croatia,2002,1,0,0
+Russia,2002,1,0,0
+Republic of Ireland,2002,1,0,0
+Slovenia,2002,1,0,0
+Italy,2006,7,1,0
+France,2006,6,0,0
+Germany,2006,5,0,1
+Portugal,2006,4,0,0
+England,2006,3,0,0
+Brazil,2006,3,0,0
+Argentina,2006,3,0,0
+Ukraine,2006,3,0,0
+Spain,2006,2,0,0
+Switzerland,2006,2,0,0
+Australia,2006,2,0,0
+Ecuador,2006,2,0,0
+Ghana,2006,2,0,0
+Mexico,2006,2,0,0
+Sweden,2006,2,0,0
+United States,2006,2,0,0
+Netherlands,2006,1,0,0
+Ivory Coast,2006,1,0,0
+Angola,2006,1,0,0
+Japan,2006,1,0,0
+Croatia,2006,1,0,0
+Czech Republic,2006,1,0,0
+Tunisia,2006,1,0,0
+South Korea,2006,1,0,0
+Poland,2006,1,0,0
+Saudi Arabia,2006,1,0,0
+Trinidad and Tobago,2006,1,0,0
+Paraguay,2006,1,0,0
+IR Iran,2006,1,0,0
+Costa Rica,2006,1,0,0
+Togo,2006,1,0,0
+Serbia and Montenegro,2006,1,0,0
+Spain,2010,7,1,0
+Netherlands,2010,6,0,0
+Germany,2010,5,0,0
+Uruguay,2010,4,0,0
+Argentina,2010,3,0,0
+Brazil,2010,3,0,0
+Paraguay,2010,3,0,0
+Ghana,2010,3,0,0
+England,2010,2,0,0
+Japan,2010,2,0,0
+South Korea,2010,2,0,0
+United States,2010,2,0,0
+Chile,2010,2,0,0
+Mexico,2010,2,0,0
+Slovakia,2010,2,0,0
+Portugal,2010,2,0,0
+South Africa,2010,1,0,1
+France,2010,1,0,0
+Nigeria,2010,1,0,0
+Algeria,2010,1,0,0
+Australia,2010,1,0,0
+Serbia,2010,1,0,0
+Denmark,2010,1,0,0
+Cameroon,2010,1,0,0
+New Zealand,2010,1,0,0
+Italy,2010,1,0,0
+Honduras,2010,1,0,0
+Switzerland,2010,1,0,0
+Ivory Coast,2010,1,0,0
+Slovenia,2010,1,0,0
+North Korea,2010,1,0,0
+Greece,2010,1,0,0
+Germany,2014,7,1,0
+Argentina,2014,6,0,0
+Netherlands,2014,5,0,0
+Brazil,2014,4,0,1
+France,2014,3,0,0
+Colombia,2014,3,0,0
+Belgium,2014,3,0,0
+Costa Rica,2014,3,0,0
+Algeria,2014,2,0,0
+United States,2014,2,0,0
+Greece,2014,2,0,0
+Mexico,2014,2,0,0
+Chile,2014,2,0,0
+Switzerland,2014,2,0,0
+Uruguay,2014,2,0,0
+Nigeria,2014,2,0,0
+Spain,2014,1,0,0
+Italy,2014,1,0,0
+England,2014,1,0,0
+Japan,2014,1,0,0
+Ivory Coast,2014,1,0,0
+Portugal,2014,1,0,0
+Ghana,2014,1,0,0
+South Korea,2014,1,0,0
+Russia,2014,1,0,0
+Australia,2014,1,0,0
+Ecuador,2014,1,0,0
+Bosnia and Herzegovina,2014,1,0,0
+IR Iran,2014,1,0,0
+Honduras,2014,1,0,0
+Cameroon,2014,1,0,0
+Croatia,2014,1,0,0
+France,2018,7,1,0
+Croatia,2018,6,0,0
+Belgium,2018,5,0,0
+England,2018,4,0,0
+Brazil,2018,3,0,0
+Uruguay,2018,3,0,0
+Russia,2018,3,0,1
+Sweden,2018,3,0,0
+Argentina,2018,2,0,0
+Colombia,2018,2,0,0
+Japan,2018,2,0,0
+Mexico,2018,2,0,0
+Denmark,2018,2,0,0
+Switzerland,2018,2,0,0
+Spain,2018,2,0,0
+Portugal,2018,2,0,0
+Germany,2018,1,0,0
+South Korea,2018,1,0,0
+Serbia,2018,1,0,0
+Costa Rica,2018,1,0,0
+Nigeria,2018,1,0,0
+Iceland,2018,1,0,0
+Australia,2018,1,0,0
+Peru,2018,1,0,0
+Morocco,2018,1,0,0
+IR Iran,2018,1,0,0
+Senegal,2018,1,0,0
+Poland,2018,1,0,0
+Egypt,2018,1,0,0
+Saudi Arabia,2018,1,0,0
+Tunisia,2018,1,0,0
+Panama,2018,1,0,0
+Argentina,2022,7,1,0
+France,2022,6,0,0
+Croatia,2022,5,0,0
+Morocco,2022,4,0,0
+England,2022,3,0,0
+Netherlands,2022,3,0,0
+Brazil,2022,3,0,0
+Portugal,2022,3,0,0
+Japan,2022,2,0,0
+South Korea,2022,2,0,0
+Australia,2022,2,0,0
+Senegal,2022,2,0,0
+Spain,2022,2,0,0
+Switzerland,2022,2,0,0
+Poland,2022,2,0,0
+United States,2022,2,0,0
+Germany,2022,1,0,0
+Belgium,2022,1,0,0
+Uruguay,2022,1,0,0
+Denmark,2022,1,0,0
+Mexico,2022,1,0,0
+Canada,2022,1,0,0
+Cameroon,2022,1,0,0
+Serbia,2022,1,0,0
+Ecuador,2022,1,0,0
+Qatar,2022,1,0,1
+IR Iran,2022,1,0,0
+Saudi Arabia,2022,1,0,0
+Tunisia,2022,1,0,0
+Ghana,2022,1,0,0
+Costa Rica,2022,1,0,0
+Wales,2022,1,0,0
